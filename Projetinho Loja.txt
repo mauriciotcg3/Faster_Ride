@@ -1,0 +1,22 @@
+Vamos desenvolver uma loja de roupa funcional:
+
+Objetivos:
+
+1 - desenvolver a estrutura basica do HTML e CSS;
+2 - aplicar melhorias na primeira interface;
+3 - Aplicar funcionalidades da primeira interface;
+4 - Começar a replicar o funcionamento nas próx pages;
+5 - Estruturar o DB da loja 
+
+
+----------------------------------------------------------------------------------
+
+
+Estrutura:
+
+1 - Home com todas as classes e atributos;
+2 - Fazer com que a Home fique funcional, apresentando interações para o usuario;
+3 - Aplicar Js para melhorar a interação visual do usuario
+4 - Replicar esse mesmo ciclo nas outras pages do site;
+5 - Estrutura do DB para armazenar dados internos e externos;
+
